@@ -3,7 +3,6 @@
   <div>
 <h1 align="center">Hi there 👋</h1>
 ---
----
 
 ### :hammer_and_wrench: Языки и инструменты :  
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="40" height="40" >&nbsp;
@@ -13,7 +12,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40">&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40">&nbsp;
 
 <!--
 **BiggoDot/BiggoDot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
