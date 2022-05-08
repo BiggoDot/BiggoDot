@@ -5,7 +5,7 @@
     
 ### 💁🏻‍♀️ About me:
 🖱 Junior Fornt-End Developer 
-Flag: Israel on Twitter Twemoji 14.0 Located in Israel
+🇮🇱 Located in Israel
 
     
     ---
