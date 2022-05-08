@@ -3,6 +3,11 @@
   <div>
 <h1 align="center">Welcome to my GitHub 👋</h1>
     
+### 💁🏻‍♀️ About me:
+🖱 Junior Fornt-End Developer 
+Flag: Israel on Twitter Twemoji 14.0 Located in Israel
+
+    
     ---
 
 ### 👩🏻‍💻 Technology Stack and Tools:  
@@ -14,6 +19,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40">&nbsp;
+    
+ 
+    
+ 
 
 <!--
 **BiggoDot/BiggoDot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
