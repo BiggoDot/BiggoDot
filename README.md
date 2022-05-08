@@ -1,4 +1,4 @@
-<img src='https://www.pinoylinux.org/wp-content/uploads/2016/03/hello-world.gif'/>
+<img src='https://www.pinoylinux.org/wp-content/uploads/2016/03/hello-world.gif' width='300px' align='center'/>
 <h1 align='center'>Hi there 👋</h1>
 
 <!--
