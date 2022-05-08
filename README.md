@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src='https://www.pinoylinux.org/wp-content/uploads/2016/03/hello-world.gif'/>
+<h1 align='center'>Hi there 👋</h1>
 
 <!--
 **BiggoDot/BiggoDot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
