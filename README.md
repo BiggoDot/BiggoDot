@@ -4,8 +4,8 @@
 <h1 align="center">Welcome to my GitHub 👋</h1>
     
 ### 💁🏻‍♀️ About me:
-🖱 Junior Fornt-End Developer 
-🇮🇱 Located in Israel
+- 🖱 Junior Fornt-End Developer 
+- ✡︎ Located in Israel
 
     
     ---
