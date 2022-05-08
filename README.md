@@ -1,10 +1,11 @@
 <div align="center">
   <img src="https://www.pinoylinux.org/wp-content/uploads/2016/03/hello-world.gif" width="400px"/>
   <div>
-<h1 align="center">Hi there 👋</h1>
----
+<h1 align="center">Welcome to my GitHub 👋</h1>
+    
+    ---
 
-### :hammer_and_wrench: Языки и инструменты :  
+### 👩🏻‍💻 Technology Stack and Tools:  
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="40" height="40" >&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40">&nbsp;  
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">&nbsp;
