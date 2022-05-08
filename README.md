@@ -2,7 +2,7 @@
   <img src="https://www.pinoylinux.org/wp-content/uploads/2016/03/hello-world.gif" width="400px"/>
   <div>
 <h1 align="center">Welcome to my GitHub 👋</h1>
-    
+    <div align="start">
 ### 💁🏻‍♀️ About me:
 - 🖱 Junior Fornt-End Developer 
 - ✡︎ Located in Israel
@@ -21,7 +21,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40">&nbsp;
     
  
-    
+    </div>
  
 
 <!--
