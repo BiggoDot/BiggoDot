@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.pinoylinux.org/wp-content/uploads/2016/03/hello-world.gif" max-width="400px"/>
+  <img src="https://www.pinoylinux.org/wp-content/uploads/2016/03/hello-world.gif" width="60%"/>
   </div>
     
 <h1 align="center">Welcome to my GitHub 👋</h1>
